@@ -1,9 +1,6 @@
 # Frontend Mentor - Advice generator app
-
-## The challenge
-
 ![desktop-preview](https://user-images.githubusercontent.com/96505286/156475922-4b6b2a8c-dba7-4707-a9c3-a5b2f97b128f.jpg)
-
+## The challenge
 Your challenge is to build out this advice generator app using the Advice Slip API and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
