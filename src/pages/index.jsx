@@ -12,7 +12,7 @@ export default function Home() {
 
     const [advice, setAdvice] = useState({});
     const getData = async () => {
-      const res = await fetch(URI);
+      const res = await fetch(URI, {cache: "no-cache"});
       const data = await res.json();
       setAdvice(data);
     };
