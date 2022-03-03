@@ -1,34 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Mentor - Advice generator app
 
-## Getting Started
+## The challenge
 
-First, run the development server:
+![desktop-preview](https://user-images.githubusercontent.com/96505286/156475922-4b6b2a8c-dba7-4707-a9c3-a5b2f97b128f.jpg)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Your challenge is to build out this advice generator app using the Advice Slip API and get it looking as close to the design as possible.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Your users should be able to:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+View the optimal layout for the app depending on their device's screen size
+See hover states for all interactive elements on the page
+Generate a new piece of advice by clicking the dice icon
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## My solution
+Deploy: https://advice-generator-cxalem.vercel.app/
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://user-images.githubusercontent.com/96505286/156475982-cebee732-c4a6-40b7-b87a-560bc7759fa8.png)
